@@ -1,0 +1,1 @@
+source venv/bin/activate && pip install "langgraph>=0.2.0" "langgraph-checkpoint-postgres>=1.0.0" "langchain-core>=0.2.0" 2>&1 | tail -20
